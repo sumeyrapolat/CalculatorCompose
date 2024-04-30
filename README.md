@@ -15,7 +15,10 @@ Bu Android uygulaması, kullanıcıların iki sayı arasında basit aritmetik i�
 3. İşlem butonlarına tıkladığında, ilgili işlem num1 ve num2'nin değerlerine göre gerçekleştirilir ve sonuç bir Toast mesajı olarak gösterilir.
 
 ## **Ekran Görüntüsü**
-<img src="app/src/main/res/drawable/calculator.png" alt="Uygulamanın UI tasarımı" width="100" height="200">
+<img src="app/src/main/res/drawable/calculator.png" alt="Uygulamanın UI tasarımı" width="150" height="300">
+
+## **Ekran Videosu**
+<iframe width="560" height="315" src="app/src/main/res/drawable/calculatorvideo.mp4" frameborder="0" allowfullscreen></iframe>
 
 
 ## Geliştirme Ortamı
