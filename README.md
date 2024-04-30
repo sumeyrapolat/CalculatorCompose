@@ -18,7 +18,7 @@ Bu Android uygulaması, kullanıcıların iki sayı arasında basit aritmetik i�
 <img src="app/src/main/res/drawable/calculator.png" alt="Uygulamanın UI tasarımı" width="150" height="300">
 
 ## **Ekran Videosu**
-<img src="app/src/main/res/drawable/calculatorvideo.mp4" alt="Uygulamanın UI tasarımı" width="150" height="300">
+<img src="app/src/main/res/drawable/calculatorvideo.mp4" alt="Uygulamanın UI tasarım videosu indirmek için tıklayınız." width="150" height="300">
 
 
 ## Geliştirme Ortamı
